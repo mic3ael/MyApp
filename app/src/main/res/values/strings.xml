@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="createE">Create Event</string>
+    <string name="settingsE">Setting Event</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="white">#FFFFFF</color>
+</resources>
